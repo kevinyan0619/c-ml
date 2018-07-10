@@ -1,9 +1,3 @@
-/*
- * linearRegression.h
- *
- *  Created on: Jul 10, 2018
- *      Author: kevinyan
- */
 
 #ifndef LINEARREGRESSION_H_
 #define LINEARREGRESSION_H_

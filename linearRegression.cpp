@@ -1,9 +1,3 @@
-/*
- * linearRegression.cpp
- *
- *  Created on: Jul 10, 2018
- *      Author: kevinyan
- */
 
 #include "linearRegression.h"
 
